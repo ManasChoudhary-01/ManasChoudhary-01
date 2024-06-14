@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manas-choudhary-56374028b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manas-choudhary-56374028b" height="30" width="40" /></a>
-<a href="https://instagram.com/manaschoudhary_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manaschoudhary_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manas-choudhary-56374028b" target="main"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manas-choudhary-56374028b" height="30" width="40" /></a>
+<a href="https://instagram.com/manaschoudhary_" target="main"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manaschoudhary_" height="30" width="40" /></a>
 </p>
 <br>
 <br>
@@ -23,7 +23,7 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manaschoudhary-01&show_icons=true&locale=en&layout=compact" 
       alt="manaschoudhary-01" /></p>
 
-  <p style="padding-top:20px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manaschoudhary-01&show_icons=true&locale=en" alt="manaschoudhary-01" /></p>
+  <p >&nbsp;<img align="center" style="padding-top:20px;" src="https://github-readme-stats.vercel.app/api?username=manaschoudhary-01&show_icons=true&locale=en" alt="manaschoudhary-01" /></p>
 </div>
 
 
