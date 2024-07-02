@@ -24,6 +24,8 @@
       alt="manaschoudhary-01" /></p>
 
   <p >&nbsp;<img align="center" style="padding-top:20px;" src="https://github-readme-stats.vercel.app/api?username=manaschoudhary-01&show_icons=true&locale=en" alt="manaschoudhary-01" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manaschoudhary-01&" alt="manaschoudhary-01" /></p>
 </div>
 
 
