@@ -5,7 +5,7 @@
 
 - 🏫 Student at BITS Pilani
  
-- 👨‍💻 My portfolio webiste [https://manaschoudhary-01.github.io/Manas-Portfolio/](https://manaschoudhary-01.github.io/Manas-Portfolio/)
+- 👨‍💻 My portfolio webiste [https://manaschoudhary.netlify.app](https://manaschoudhary.netlify.app)
 
 - 💬 I am always open to accepting collaborators
 
